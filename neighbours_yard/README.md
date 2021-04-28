@@ -60,7 +60,7 @@ $ flutter run
 
 <img src="Validation.jpg" width="189" />
 
-   > Validaitons in place to enforce security.
+   > Validations in place to enforce security.
 <br/>
 <br/>
 
@@ -97,7 +97,7 @@ $ flutter run
 
 <img src="Camera_Gallery.jpg" width="189" />
 
-   > User given the option to choose betwen camera and gallery to upload pictures.
+   > User given the option to choose between camera and gallery to upload pictures.
 <br/>
 <br/>
 
